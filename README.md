@@ -8,7 +8,6 @@ Chào mừng đến với trang cá nhân của tôi! Dưới đây là thông t
 | :--- | :--- |
 | **Họ và tên** | Phạm Doãn Tuấn Khôi |
 | **Ngày sinh** | 23/04/2006 |
-| **Mã sinh viên** | `2451271129` |
 | **Trường** | 🏛️ Đại học Thủy Lợi (Thuyloi University) |
 
 ---
